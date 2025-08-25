@@ -42,10 +42,4 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Subeshan007&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
----
-
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Subeshan007&style=for-the-badge)
-</p>
-
 
