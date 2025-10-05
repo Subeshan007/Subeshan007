@@ -3,7 +3,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subeshan-cobalakirouchenin-139a63298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subeshan2005@gmail.com) [![LeetCode Badges](https://leetcode-badge.showcase/api?username=Subeshan&theme=light)](https://leetcode.com/u/Subeshan/) [![SkillRack Profile](https://your-image-host.com/skillrack-badge.png)](http://www.skillrack.com/profile/465202/a89dec1a4c57cf5e7cb4a2c536f28400c6825416)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subeshan-cobalakirouchenin-139a63298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subeshan2005@gmail.com)[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=white)](https://leetcode.com/u/Subeshan/)
+ [![SkillRack](https://img.shields.io/badge/SkillRack-%23007ACC.svg?logoColor=white)](http://www.skillrack.com/profile/465202/a89dec1a4c57cf5e7cb4a2c536f28400c6825416)
+
 
 
 # 💻 Tech Stack:
