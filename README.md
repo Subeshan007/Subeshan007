@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Web Development, AI-powered applications, and innovative student projects<br>👯 I’m looking to collaborate on Open-source projects, web apps, and AI-driven solutions<br>🤝 I’m looking for help with Full-stack development, API integrations, and deployment<br>🌱 I’m currently learning Flutter, SEO, and advanced database systems<br>💬 Ask me about Web development, AI chatbots, databases, and creative project ideas<br>⚡ Fun fact I believe coffee + code = infinite creativity ☕💻
 
+![Profile views](https://komarev.com/ghpvc/?username=Subeshan007&color=blue) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subeshan-cobalakirouchenin-139a63298/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subeshan2005@gmail.com)[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=white)](https://leetcode.com/u/Subeshan/)
